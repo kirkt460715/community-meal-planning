@@ -1,0 +1,77 @@
+{
+  "fields": [
+    "id",
+    "vehicle",
+    "kitchen",
+    "site",
+    "window",
+    "capacity",
+    "vehicle_capacity"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "D1",
+      "vehicle": "T1",
+      "kitchen": "K1",
+      "site": "S1",
+      "window": "early",
+      "capacity": "22",
+      "vehicle_capacity": "30"
+    },
+    {
+      "id": "D2",
+      "vehicle": "T1",
+      "kitchen": "K1",
+      "site": "S2",
+      "window": "early",
+      "capacity": "22",
+      "vehicle_capacity": "30"
+    },
+    {
+      "id": "D3",
+      "vehicle": "T1",
+      "kitchen": "K1",
+      "site": "S2",
+      "window": "late",
+      "capacity": "25",
+      "vehicle_capacity": "30"
+    },
+    {
+      "id": "D4",
+      "vehicle": "T2",
+      "kitchen": "K2",
+      "site": "S2",
+      "window": "late",
+      "capacity": "26",
+      "vehicle_capacity": "30"
+    },
+    {
+      "id": "D5",
+      "vehicle": "T2",
+      "kitchen": "K2",
+      "site": "S3",
+      "window": "early",
+      "capacity": "18",
+      "vehicle_capacity": "30"
+    },
+    {
+      "id": "D6",
+      "vehicle": "T2",
+      "kitchen": "K3",
+      "site": "S3",
+      "window": "early",
+      "capacity": "14",
+      "vehicle_capacity": "30"
+    },
+    {
+      "id": "D7",
+      "vehicle": "T3",
+      "kitchen": "K3",
+      "site": "S3",
+      "window": "late",
+      "capacity": "16",
+      "vehicle_capacity": "24"
+    }
+  ]
+}

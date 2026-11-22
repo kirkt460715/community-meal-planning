@@ -1,0 +1,61 @@
+{
+  "fields": [
+    "id",
+    "kitchen",
+    "kind",
+    "batch_size",
+    "max_batches",
+    "line_batches"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "K1A",
+      "kitchen": "K1",
+      "kind": "regular",
+      "batch_size": "6",
+      "max_batches": "8",
+      "line_batches": "10"
+    },
+    {
+      "id": "K1B",
+      "kitchen": "K1",
+      "kind": "soft",
+      "batch_size": "4",
+      "max_batches": "5",
+      "line_batches": "10"
+    },
+    {
+      "id": "K1C",
+      "kitchen": "K1",
+      "kind": "restricted",
+      "batch_size": "4",
+      "max_batches": "4",
+      "line_batches": "10"
+    },
+    {
+      "id": "K2A",
+      "kitchen": "K2",
+      "kind": "regular",
+      "batch_size": "8",
+      "max_batches": "6",
+      "line_batches": "8"
+    },
+    {
+      "id": "K2B",
+      "kitchen": "K2",
+      "kind": "soft",
+      "batch_size": "3",
+      "max_batches": "6",
+      "line_batches": "8"
+    },
+    {
+      "id": "K3C",
+      "kitchen": "K3",
+      "kind": "restricted",
+      "batch_size": "4",
+      "max_batches": "4",
+      "line_batches": "4"
+    }
+  ]
+}

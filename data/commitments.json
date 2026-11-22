@@ -1,0 +1,45 @@
+{
+  "fields": [
+    "id",
+    "route",
+    "production",
+    "units",
+    "state",
+    "at"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "P1",
+      "route": "D1",
+      "production": "K1C",
+      "units": "8",
+      "state": "accepted",
+      "at": "2026-09-13T18:00:00"
+    },
+    {
+      "id": "P2",
+      "route": "D2",
+      "production": "K1A",
+      "units": "12",
+      "state": "accepted",
+      "at": "2026-09-13T18:00:00"
+    },
+    {
+      "id": "P3",
+      "route": "D5",
+      "production": "K2B",
+      "units": "9",
+      "state": "planned",
+      "at": "2026-09-13T18:25:00"
+    },
+    {
+      "id": "P4",
+      "route": "D6",
+      "production": "K3C",
+      "units": "8",
+      "state": "accepted",
+      "at": "2026-09-13T18:30:00"
+    }
+  ]
+}

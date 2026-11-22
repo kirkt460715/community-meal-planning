@@ -1,0 +1,7485 @@
+{
+  "fields": [
+    "id",
+    "site",
+    "day",
+    "window",
+    "kind",
+    "opening",
+    "closing",
+    "evidence"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "S1-0-early-regular",
+      "site": "S1",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-0-early-soft",
+      "site": "S1",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "partial"
+    },
+    {
+      "id": "S1-0-early-restricted",
+      "site": "S1",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-0-early-regular",
+      "site": "S2",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-0-early-soft",
+      "site": "S2",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "partial"
+    },
+    {
+      "id": "S2-0-early-restricted",
+      "site": "S2",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-0-early-regular",
+      "site": "S3",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-0-early-soft",
+      "site": "S3",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "3",
+      "evidence": "partial"
+    },
+    {
+      "id": "S3-0-early-restricted",
+      "site": "S3",
+      "day": "2026-08-03",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-0-late-regular",
+      "site": "S1",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-0-late-soft",
+      "site": "S1",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S1-0-late-restricted",
+      "site": "S1",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-0-late-regular",
+      "site": "S2",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-0-late-soft",
+      "site": "S2",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "partial"
+    },
+    {
+      "id": "S2-0-late-restricted",
+      "site": "S2",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-0-late-regular",
+      "site": "S3",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-0-late-soft",
+      "site": "S3",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S3-0-late-restricted",
+      "site": "S3",
+      "day": "2026-08-03",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-1-early-regular",
+      "site": "S1",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-1-early-soft",
+      "site": "S1",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-1-early-restricted",
+      "site": "S1",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-1-early-regular",
+      "site": "S2",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-1-early-soft",
+      "site": "S2",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-1-early-restricted",
+      "site": "S2",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-1-early-regular",
+      "site": "S3",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-1-early-soft",
+      "site": "S3",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-1-early-restricted",
+      "site": "S3",
+      "day": "2026-08-04",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-1-late-regular",
+      "site": "S1",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-1-late-soft",
+      "site": "S1",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-1-late-restricted",
+      "site": "S1",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-1-late-regular",
+      "site": "S2",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-1-late-soft",
+      "site": "S2",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-1-late-restricted",
+      "site": "S2",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-1-late-regular",
+      "site": "S3",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-1-late-soft",
+      "site": "S3",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-1-late-restricted",
+      "site": "S3",
+      "day": "2026-08-04",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-2-early-regular",
+      "site": "S1",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-2-early-soft",
+      "site": "S1",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-2-early-restricted",
+      "site": "S1",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-2-early-regular",
+      "site": "S2",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-2-early-soft",
+      "site": "S2",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-2-early-restricted",
+      "site": "S2",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-2-early-regular",
+      "site": "S3",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-2-early-soft",
+      "site": "S3",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-2-early-restricted",
+      "site": "S3",
+      "day": "2026-08-05",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-2-late-regular",
+      "site": "S1",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-2-late-soft",
+      "site": "S1",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-2-late-restricted",
+      "site": "S1",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-2-late-regular",
+      "site": "S2",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-2-late-soft",
+      "site": "S2",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-2-late-restricted",
+      "site": "S2",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-2-late-regular",
+      "site": "S3",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-2-late-soft",
+      "site": "S3",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-2-late-restricted",
+      "site": "S3",
+      "day": "2026-08-05",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-3-early-regular",
+      "site": "S1",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-3-early-soft",
+      "site": "S1",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-3-early-restricted",
+      "site": "S1",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-3-early-regular",
+      "site": "S2",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-3-early-soft",
+      "site": "S2",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-3-early-restricted",
+      "site": "S2",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-3-early-regular",
+      "site": "S3",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-3-early-soft",
+      "site": "S3",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-3-early-restricted",
+      "site": "S3",
+      "day": "2026-08-06",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-3-late-regular",
+      "site": "S1",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-3-late-soft",
+      "site": "S1",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-3-late-restricted",
+      "site": "S1",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-3-late-regular",
+      "site": "S2",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-3-late-soft",
+      "site": "S2",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-3-late-restricted",
+      "site": "S2",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-3-late-regular",
+      "site": "S3",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-3-late-soft",
+      "site": "S3",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-3-late-restricted",
+      "site": "S3",
+      "day": "2026-08-06",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-4-early-regular",
+      "site": "S1",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-4-early-soft",
+      "site": "S1",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-4-early-restricted",
+      "site": "S1",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-4-early-regular",
+      "site": "S2",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-4-early-soft",
+      "site": "S2",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-4-early-restricted",
+      "site": "S2",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-4-early-regular",
+      "site": "S3",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-4-early-soft",
+      "site": "S3",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-4-early-restricted",
+      "site": "S3",
+      "day": "2026-08-07",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-4-late-regular",
+      "site": "S1",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-4-late-soft",
+      "site": "S1",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-4-late-restricted",
+      "site": "S1",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-4-late-regular",
+      "site": "S2",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-4-late-soft",
+      "site": "S2",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-4-late-restricted",
+      "site": "S2",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-4-late-regular",
+      "site": "S3",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-4-late-soft",
+      "site": "S3",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-4-late-restricted",
+      "site": "S3",
+      "day": "2026-08-07",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-5-early-regular",
+      "site": "S1",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-5-early-soft",
+      "site": "S1",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-5-early-restricted",
+      "site": "S1",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-5-early-regular",
+      "site": "S2",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-5-early-soft",
+      "site": "S2",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-5-early-restricted",
+      "site": "S2",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-5-early-regular",
+      "site": "S3",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-5-early-soft",
+      "site": "S3",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-5-early-restricted",
+      "site": "S3",
+      "day": "2026-08-08",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-5-late-regular",
+      "site": "S1",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-5-late-soft",
+      "site": "S1",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-5-late-restricted",
+      "site": "S1",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-5-late-regular",
+      "site": "S2",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-5-late-soft",
+      "site": "S2",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-5-late-restricted",
+      "site": "S2",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-5-late-regular",
+      "site": "S3",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-5-late-soft",
+      "site": "S3",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-5-late-restricted",
+      "site": "S3",
+      "day": "2026-08-08",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-6-early-regular",
+      "site": "S1",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-6-early-soft",
+      "site": "S1",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-6-early-restricted",
+      "site": "S1",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-6-early-regular",
+      "site": "S2",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-6-early-soft",
+      "site": "S2",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-6-early-restricted",
+      "site": "S2",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-6-early-regular",
+      "site": "S3",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-6-early-soft",
+      "site": "S3",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-6-early-restricted",
+      "site": "S3",
+      "day": "2026-08-09",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-6-late-regular",
+      "site": "S1",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-6-late-soft",
+      "site": "S1",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-6-late-restricted",
+      "site": "S1",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-6-late-regular",
+      "site": "S2",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-6-late-soft",
+      "site": "S2",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-6-late-restricted",
+      "site": "S2",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-6-late-regular",
+      "site": "S3",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-6-late-soft",
+      "site": "S3",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-6-late-restricted",
+      "site": "S3",
+      "day": "2026-08-09",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-7-early-regular",
+      "site": "S1",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-7-early-soft",
+      "site": "S1",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-7-early-restricted",
+      "site": "S1",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-7-early-regular",
+      "site": "S2",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-7-early-soft",
+      "site": "S2",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-7-early-restricted",
+      "site": "S2",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-7-early-regular",
+      "site": "S3",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-7-early-soft",
+      "site": "S3",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-7-early-restricted",
+      "site": "S3",
+      "day": "2026-08-10",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-7-late-regular",
+      "site": "S1",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-7-late-soft",
+      "site": "S1",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-7-late-restricted",
+      "site": "S1",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-7-late-regular",
+      "site": "S2",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-7-late-soft",
+      "site": "S2",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-7-late-restricted",
+      "site": "S2",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-7-late-regular",
+      "site": "S3",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-7-late-soft",
+      "site": "S3",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-7-late-restricted",
+      "site": "S3",
+      "day": "2026-08-10",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-8-early-regular",
+      "site": "S1",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-8-early-soft",
+      "site": "S1",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-8-early-restricted",
+      "site": "S1",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-8-early-regular",
+      "site": "S2",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-8-early-soft",
+      "site": "S2",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-8-early-restricted",
+      "site": "S2",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-8-early-regular",
+      "site": "S3",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-8-early-soft",
+      "site": "S3",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-8-early-restricted",
+      "site": "S3",
+      "day": "2026-08-11",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-8-late-regular",
+      "site": "S1",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-8-late-soft",
+      "site": "S1",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-8-late-restricted",
+      "site": "S1",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-8-late-regular",
+      "site": "S2",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-8-late-soft",
+      "site": "S2",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-8-late-restricted",
+      "site": "S2",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-8-late-regular",
+      "site": "S3",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-8-late-soft",
+      "site": "S3",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-8-late-restricted",
+      "site": "S3",
+      "day": "2026-08-11",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-9-early-regular",
+      "site": "S1",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-9-early-soft",
+      "site": "S1",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-9-early-restricted",
+      "site": "S1",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-9-early-regular",
+      "site": "S2",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-9-early-soft",
+      "site": "S2",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-9-early-restricted",
+      "site": "S2",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-9-early-regular",
+      "site": "S3",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-9-early-soft",
+      "site": "S3",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-9-early-restricted",
+      "site": "S3",
+      "day": "2026-08-12",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-9-late-regular",
+      "site": "S1",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-9-late-soft",
+      "site": "S1",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-9-late-restricted",
+      "site": "S1",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-9-late-regular",
+      "site": "S2",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-9-late-soft",
+      "site": "S2",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-9-late-restricted",
+      "site": "S2",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-9-late-regular",
+      "site": "S3",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-9-late-soft",
+      "site": "S3",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-9-late-restricted",
+      "site": "S3",
+      "day": "2026-08-12",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-10-early-regular",
+      "site": "S1",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-10-early-soft",
+      "site": "S1",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-10-early-restricted",
+      "site": "S1",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-10-early-regular",
+      "site": "S2",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-10-early-soft",
+      "site": "S2",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-10-early-restricted",
+      "site": "S2",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-10-early-regular",
+      "site": "S3",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-10-early-soft",
+      "site": "S3",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-10-early-restricted",
+      "site": "S3",
+      "day": "2026-08-13",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-10-late-regular",
+      "site": "S1",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-10-late-soft",
+      "site": "S1",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-10-late-restricted",
+      "site": "S1",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-10-late-regular",
+      "site": "S2",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-10-late-soft",
+      "site": "S2",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-10-late-restricted",
+      "site": "S2",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-10-late-regular",
+      "site": "S3",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-10-late-soft",
+      "site": "S3",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-10-late-restricted",
+      "site": "S3",
+      "day": "2026-08-13",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-11-early-regular",
+      "site": "S1",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-11-early-soft",
+      "site": "S1",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-11-early-restricted",
+      "site": "S1",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-11-early-regular",
+      "site": "S2",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-11-early-soft",
+      "site": "S2",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-11-early-restricted",
+      "site": "S2",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-11-early-regular",
+      "site": "S3",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-11-early-soft",
+      "site": "S3",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-11-early-restricted",
+      "site": "S3",
+      "day": "2026-08-14",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-11-late-regular",
+      "site": "S1",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-11-late-soft",
+      "site": "S1",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-11-late-restricted",
+      "site": "S1",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-11-late-regular",
+      "site": "S2",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-11-late-soft",
+      "site": "S2",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-11-late-restricted",
+      "site": "S2",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-11-late-regular",
+      "site": "S3",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-11-late-soft",
+      "site": "S3",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-11-late-restricted",
+      "site": "S3",
+      "day": "2026-08-14",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-12-early-regular",
+      "site": "S1",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-12-early-soft",
+      "site": "S1",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-12-early-restricted",
+      "site": "S1",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-12-early-regular",
+      "site": "S2",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-12-early-soft",
+      "site": "S2",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-12-early-restricted",
+      "site": "S2",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-12-early-regular",
+      "site": "S3",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-12-early-soft",
+      "site": "S3",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-12-early-restricted",
+      "site": "S3",
+      "day": "2026-08-15",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-12-late-regular",
+      "site": "S1",
+      "day": "2026-08-15",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-12-late-soft",
+      "site": "S1",
+      "day": "2026-08-15",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-12-late-restricted",
+      "site": "S1",
+      "day": "2026-08-15",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-12-late-regular",
+      "site": "S2",
+      "day": "2026-08-15",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-12-late-soft",
+      "site": "S2",
+      "day": "2026-08-15",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-12-late-restricted",
+      "site": "S2",
+      "day": "2026-08-15",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-13-early-regular",
+      "site": "S1",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-13-early-soft",
+      "site": "S1",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-13-early-restricted",
+      "site": "S1",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-13-early-regular",
+      "site": "S2",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-13-early-soft",
+      "site": "S2",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-13-early-restricted",
+      "site": "S2",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-13-early-regular",
+      "site": "S3",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-13-early-soft",
+      "site": "S3",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-13-early-restricted",
+      "site": "S3",
+      "day": "2026-08-16",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-13-late-regular",
+      "site": "S1",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-13-late-soft",
+      "site": "S1",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-13-late-restricted",
+      "site": "S1",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-13-late-regular",
+      "site": "S2",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-13-late-soft",
+      "site": "S2",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-13-late-restricted",
+      "site": "S2",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-13-late-regular",
+      "site": "S3",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-13-late-soft",
+      "site": "S3",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-13-late-restricted",
+      "site": "S3",
+      "day": "2026-08-16",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-14-early-regular",
+      "site": "S1",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-14-early-soft",
+      "site": "S1",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-14-early-restricted",
+      "site": "S1",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-14-early-regular",
+      "site": "S2",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-14-early-soft",
+      "site": "S2",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-14-early-restricted",
+      "site": "S2",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-14-early-regular",
+      "site": "S3",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-14-early-soft",
+      "site": "S3",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-14-early-restricted",
+      "site": "S3",
+      "day": "2026-08-17",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-14-late-regular",
+      "site": "S1",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-14-late-soft",
+      "site": "S1",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-14-late-restricted",
+      "site": "S1",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-14-late-regular",
+      "site": "S2",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-14-late-soft",
+      "site": "S2",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-14-late-restricted",
+      "site": "S2",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-14-late-regular",
+      "site": "S3",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-14-late-soft",
+      "site": "S3",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-14-late-restricted",
+      "site": "S3",
+      "day": "2026-08-17",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-15-early-regular",
+      "site": "S1",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-15-early-soft",
+      "site": "S1",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-15-early-restricted",
+      "site": "S1",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-15-early-regular",
+      "site": "S2",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-15-early-soft",
+      "site": "S2",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-15-early-restricted",
+      "site": "S2",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-15-early-regular",
+      "site": "S3",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-15-early-soft",
+      "site": "S3",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-15-early-restricted",
+      "site": "S3",
+      "day": "2026-08-18",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-15-late-regular",
+      "site": "S1",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-15-late-soft",
+      "site": "S1",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-15-late-restricted",
+      "site": "S1",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-15-late-regular",
+      "site": "S2",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-15-late-soft",
+      "site": "S2",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-15-late-restricted",
+      "site": "S2",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-15-late-regular",
+      "site": "S3",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-15-late-soft",
+      "site": "S3",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-15-late-restricted",
+      "site": "S3",
+      "day": "2026-08-18",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-16-early-regular",
+      "site": "S1",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-16-early-soft",
+      "site": "S1",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-16-early-restricted",
+      "site": "S1",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-16-early-regular",
+      "site": "S2",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-16-early-soft",
+      "site": "S2",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-16-early-restricted",
+      "site": "S2",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-16-early-regular",
+      "site": "S3",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-16-early-soft",
+      "site": "S3",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-16-early-restricted",
+      "site": "S3",
+      "day": "2026-08-19",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-16-late-regular",
+      "site": "S1",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-16-late-soft",
+      "site": "S1",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-16-late-restricted",
+      "site": "S1",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-16-late-regular",
+      "site": "S2",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-16-late-soft",
+      "site": "S2",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-16-late-restricted",
+      "site": "S2",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-16-late-regular",
+      "site": "S3",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-16-late-soft",
+      "site": "S3",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-16-late-restricted",
+      "site": "S3",
+      "day": "2026-08-19",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-17-early-regular",
+      "site": "S1",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-17-early-soft",
+      "site": "S1",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "partial"
+    },
+    {
+      "id": "S1-17-early-restricted",
+      "site": "S1",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-17-early-regular",
+      "site": "S2",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-17-early-soft",
+      "site": "S2",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "1",
+      "evidence": "partial"
+    },
+    {
+      "id": "S2-17-early-restricted",
+      "site": "S2",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-17-early-regular",
+      "site": "S3",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-17-early-soft",
+      "site": "S3",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S3-17-early-restricted",
+      "site": "S3",
+      "day": "2026-08-20",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-17-late-regular",
+      "site": "S1",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-17-late-soft",
+      "site": "S1",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S1-17-late-restricted",
+      "site": "S1",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-17-late-regular",
+      "site": "S2",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-17-late-soft",
+      "site": "S2",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S2-17-late-restricted",
+      "site": "S2",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-17-late-regular",
+      "site": "S3",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-17-late-soft",
+      "site": "S3",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S3-17-late-restricted",
+      "site": "S3",
+      "day": "2026-08-20",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-18-early-regular",
+      "site": "S1",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-18-early-soft",
+      "site": "S1",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-18-early-restricted",
+      "site": "S1",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-18-early-regular",
+      "site": "S2",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-18-early-soft",
+      "site": "S2",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-18-early-restricted",
+      "site": "S2",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-18-early-regular",
+      "site": "S3",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-18-early-soft",
+      "site": "S3",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-18-early-restricted",
+      "site": "S3",
+      "day": "2026-08-21",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-18-late-regular",
+      "site": "S1",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-18-late-soft",
+      "site": "S1",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-18-late-restricted",
+      "site": "S1",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-18-late-regular",
+      "site": "S2",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-18-late-soft",
+      "site": "S2",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-18-late-restricted",
+      "site": "S2",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-18-late-regular",
+      "site": "S3",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-18-late-soft",
+      "site": "S3",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-18-late-restricted",
+      "site": "S3",
+      "day": "2026-08-21",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-19-early-regular",
+      "site": "S1",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-19-early-soft",
+      "site": "S1",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-19-early-restricted",
+      "site": "S1",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-19-early-regular",
+      "site": "S2",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-19-early-soft",
+      "site": "S2",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-19-early-restricted",
+      "site": "S2",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-19-early-regular",
+      "site": "S3",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-19-early-soft",
+      "site": "S3",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-19-early-restricted",
+      "site": "S3",
+      "day": "2026-08-22",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-19-late-regular",
+      "site": "S1",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-19-late-soft",
+      "site": "S1",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-19-late-restricted",
+      "site": "S1",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-19-late-regular",
+      "site": "S2",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-19-late-soft",
+      "site": "S2",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-19-late-restricted",
+      "site": "S2",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-19-late-regular",
+      "site": "S3",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-19-late-soft",
+      "site": "S3",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-19-late-restricted",
+      "site": "S3",
+      "day": "2026-08-22",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-20-early-regular",
+      "site": "S1",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-20-early-soft",
+      "site": "S1",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-20-early-restricted",
+      "site": "S1",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-20-early-regular",
+      "site": "S2",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-20-early-soft",
+      "site": "S2",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-20-early-restricted",
+      "site": "S2",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-20-early-regular",
+      "site": "S3",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-20-early-soft",
+      "site": "S3",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-20-early-restricted",
+      "site": "S3",
+      "day": "2026-08-23",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-20-late-regular",
+      "site": "S1",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-20-late-soft",
+      "site": "S1",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-20-late-restricted",
+      "site": "S1",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-20-late-regular",
+      "site": "S2",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-20-late-soft",
+      "site": "S2",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-20-late-restricted",
+      "site": "S2",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-20-late-regular",
+      "site": "S3",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-20-late-soft",
+      "site": "S3",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-20-late-restricted",
+      "site": "S3",
+      "day": "2026-08-23",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-21-early-regular",
+      "site": "S1",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-21-early-soft",
+      "site": "S1",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-21-early-restricted",
+      "site": "S1",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-21-early-regular",
+      "site": "S2",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-21-early-soft",
+      "site": "S2",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-21-early-restricted",
+      "site": "S2",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-21-early-regular",
+      "site": "S3",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-21-early-soft",
+      "site": "S3",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-21-early-restricted",
+      "site": "S3",
+      "day": "2026-08-24",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-21-late-regular",
+      "site": "S1",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-21-late-soft",
+      "site": "S1",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-21-late-restricted",
+      "site": "S1",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-21-late-regular",
+      "site": "S2",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-21-late-soft",
+      "site": "S2",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-21-late-restricted",
+      "site": "S2",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-21-late-regular",
+      "site": "S3",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-21-late-soft",
+      "site": "S3",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-21-late-restricted",
+      "site": "S3",
+      "day": "2026-08-24",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-22-early-regular",
+      "site": "S1",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-22-early-soft",
+      "site": "S1",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-22-early-restricted",
+      "site": "S1",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-22-early-regular",
+      "site": "S2",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-22-early-soft",
+      "site": "S2",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-22-early-restricted",
+      "site": "S2",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-22-early-regular",
+      "site": "S3",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-22-early-soft",
+      "site": "S3",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-22-early-restricted",
+      "site": "S3",
+      "day": "2026-08-25",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-22-late-regular",
+      "site": "S1",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-22-late-soft",
+      "site": "S1",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-22-late-restricted",
+      "site": "S1",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-22-late-regular",
+      "site": "S2",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-22-late-soft",
+      "site": "S2",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-22-late-restricted",
+      "site": "S2",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-22-late-regular",
+      "site": "S3",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-22-late-soft",
+      "site": "S3",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-22-late-restricted",
+      "site": "S3",
+      "day": "2026-08-25",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-23-early-regular",
+      "site": "S1",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-23-early-soft",
+      "site": "S1",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-23-early-restricted",
+      "site": "S1",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-23-early-regular",
+      "site": "S2",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-23-early-soft",
+      "site": "S2",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-23-early-restricted",
+      "site": "S2",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-23-early-regular",
+      "site": "S3",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-23-early-soft",
+      "site": "S3",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-23-early-restricted",
+      "site": "S3",
+      "day": "2026-08-26",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-23-late-regular",
+      "site": "S1",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-23-late-soft",
+      "site": "S1",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-23-late-restricted",
+      "site": "S1",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-23-late-regular",
+      "site": "S2",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-23-late-soft",
+      "site": "S2",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-23-late-restricted",
+      "site": "S2",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-23-late-regular",
+      "site": "S3",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-23-late-soft",
+      "site": "S3",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-23-late-restricted",
+      "site": "S3",
+      "day": "2026-08-26",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-24-early-regular",
+      "site": "S1",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-24-early-soft",
+      "site": "S1",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-24-early-restricted",
+      "site": "S1",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-24-early-regular",
+      "site": "S2",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-24-early-soft",
+      "site": "S2",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-24-early-restricted",
+      "site": "S2",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-24-early-regular",
+      "site": "S3",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-24-early-soft",
+      "site": "S3",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-24-early-restricted",
+      "site": "S3",
+      "day": "2026-08-27",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-24-late-regular",
+      "site": "S1",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-24-late-soft",
+      "site": "S1",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-24-late-restricted",
+      "site": "S1",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-24-late-regular",
+      "site": "S2",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-24-late-soft",
+      "site": "S2",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-24-late-restricted",
+      "site": "S2",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-24-late-regular",
+      "site": "S3",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-24-late-soft",
+      "site": "S3",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-24-late-restricted",
+      "site": "S3",
+      "day": "2026-08-27",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-25-early-regular",
+      "site": "S1",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-25-early-soft",
+      "site": "S1",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-25-early-restricted",
+      "site": "S1",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-25-early-regular",
+      "site": "S2",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-25-early-soft",
+      "site": "S2",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-25-early-restricted",
+      "site": "S2",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-25-early-regular",
+      "site": "S3",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-25-early-soft",
+      "site": "S3",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-25-early-restricted",
+      "site": "S3",
+      "day": "2026-08-28",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-25-late-regular",
+      "site": "S1",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-25-late-soft",
+      "site": "S1",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-25-late-restricted",
+      "site": "S1",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-25-late-regular",
+      "site": "S2",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-25-late-soft",
+      "site": "S2",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-25-late-restricted",
+      "site": "S2",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-25-late-regular",
+      "site": "S3",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-25-late-soft",
+      "site": "S3",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-25-late-restricted",
+      "site": "S3",
+      "day": "2026-08-28",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-26-early-regular",
+      "site": "S1",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-26-early-soft",
+      "site": "S1",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-26-early-restricted",
+      "site": "S1",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-26-early-regular",
+      "site": "S2",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-26-early-soft",
+      "site": "S2",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-26-early-restricted",
+      "site": "S2",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-26-early-regular",
+      "site": "S3",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-26-early-soft",
+      "site": "S3",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-26-early-restricted",
+      "site": "S3",
+      "day": "2026-08-29",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-26-late-regular",
+      "site": "S1",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-26-late-soft",
+      "site": "S1",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-26-late-restricted",
+      "site": "S1",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-26-late-regular",
+      "site": "S2",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-26-late-soft",
+      "site": "S2",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-26-late-restricted",
+      "site": "S2",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-26-late-regular",
+      "site": "S3",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-26-late-soft",
+      "site": "S3",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-26-late-restricted",
+      "site": "S3",
+      "day": "2026-08-29",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-27-early-regular",
+      "site": "S1",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-27-early-soft",
+      "site": "S1",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-27-early-restricted",
+      "site": "S1",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-27-early-regular",
+      "site": "S2",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-27-early-soft",
+      "site": "S2",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-27-early-restricted",
+      "site": "S2",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-27-early-regular",
+      "site": "S3",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-27-early-soft",
+      "site": "S3",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-27-early-restricted",
+      "site": "S3",
+      "day": "2026-08-30",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-27-late-regular",
+      "site": "S1",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-27-late-soft",
+      "site": "S1",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-27-late-restricted",
+      "site": "S1",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-27-late-regular",
+      "site": "S2",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-27-late-soft",
+      "site": "S2",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-27-late-restricted",
+      "site": "S2",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-27-late-regular",
+      "site": "S3",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-27-late-soft",
+      "site": "S3",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-27-late-restricted",
+      "site": "S3",
+      "day": "2026-08-30",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-28-early-regular",
+      "site": "S1",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-28-early-soft",
+      "site": "S1",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-28-early-restricted",
+      "site": "S1",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-28-early-regular",
+      "site": "S2",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-28-early-soft",
+      "site": "S2",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-28-early-restricted",
+      "site": "S2",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-28-early-regular",
+      "site": "S3",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-28-early-soft",
+      "site": "S3",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-28-early-restricted",
+      "site": "S3",
+      "day": "2026-08-31",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-28-late-regular",
+      "site": "S1",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-28-late-soft",
+      "site": "S1",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-28-late-restricted",
+      "site": "S1",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-28-late-regular",
+      "site": "S2",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-28-late-soft",
+      "site": "S2",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-28-late-restricted",
+      "site": "S2",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-28-late-regular",
+      "site": "S3",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-28-late-soft",
+      "site": "S3",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-28-late-restricted",
+      "site": "S3",
+      "day": "2026-08-31",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-29-early-regular",
+      "site": "S1",
+      "day": "2026-09-01",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-29-early-soft",
+      "site": "S1",
+      "day": "2026-09-01",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-29-early-restricted",
+      "site": "S1",
+      "day": "2026-09-01",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-29-early-regular",
+      "site": "S3",
+      "day": "2026-09-01",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-29-early-soft",
+      "site": "S3",
+      "day": "2026-09-01",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-29-early-restricted",
+      "site": "S3",
+      "day": "2026-09-01",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-29-late-regular",
+      "site": "S1",
+      "day": "2026-09-01",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-29-late-soft",
+      "site": "S1",
+      "day": "2026-09-01",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-29-late-restricted",
+      "site": "S1",
+      "day": "2026-09-01",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-29-late-regular",
+      "site": "S3",
+      "day": "2026-09-01",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-29-late-soft",
+      "site": "S3",
+      "day": "2026-09-01",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-29-late-restricted",
+      "site": "S3",
+      "day": "2026-09-01",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-30-early-regular",
+      "site": "S1",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-30-early-soft",
+      "site": "S1",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-30-early-restricted",
+      "site": "S1",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-30-early-regular",
+      "site": "S2",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-30-early-soft",
+      "site": "S2",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-30-early-restricted",
+      "site": "S2",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-30-early-regular",
+      "site": "S3",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-30-early-soft",
+      "site": "S3",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-30-early-restricted",
+      "site": "S3",
+      "day": "2026-09-02",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-30-late-regular",
+      "site": "S1",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-30-late-soft",
+      "site": "S1",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-30-late-restricted",
+      "site": "S1",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-30-late-regular",
+      "site": "S2",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-30-late-soft",
+      "site": "S2",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-30-late-restricted",
+      "site": "S2",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-30-late-regular",
+      "site": "S3",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-30-late-soft",
+      "site": "S3",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-30-late-restricted",
+      "site": "S3",
+      "day": "2026-09-02",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-31-early-regular",
+      "site": "S1",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-31-early-soft",
+      "site": "S1",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-31-early-restricted",
+      "site": "S1",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-31-early-regular",
+      "site": "S2",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-31-early-soft",
+      "site": "S2",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-31-early-restricted",
+      "site": "S2",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-31-early-regular",
+      "site": "S3",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-31-early-soft",
+      "site": "S3",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-31-early-restricted",
+      "site": "S3",
+      "day": "2026-09-03",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-31-late-regular",
+      "site": "S1",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-31-late-soft",
+      "site": "S1",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-31-late-restricted",
+      "site": "S1",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-31-late-regular",
+      "site": "S2",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-31-late-soft",
+      "site": "S2",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-31-late-restricted",
+      "site": "S2",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-31-late-regular",
+      "site": "S3",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-31-late-soft",
+      "site": "S3",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-31-late-restricted",
+      "site": "S3",
+      "day": "2026-09-03",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-32-early-regular",
+      "site": "S1",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-32-early-soft",
+      "site": "S1",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-32-early-restricted",
+      "site": "S1",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-32-early-regular",
+      "site": "S2",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-32-early-soft",
+      "site": "S2",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-32-early-restricted",
+      "site": "S2",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-32-early-regular",
+      "site": "S3",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-32-early-soft",
+      "site": "S3",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-32-early-restricted",
+      "site": "S3",
+      "day": "2026-09-04",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-32-late-regular",
+      "site": "S1",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-32-late-soft",
+      "site": "S1",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-32-late-restricted",
+      "site": "S1",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-32-late-regular",
+      "site": "S2",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-32-late-soft",
+      "site": "S2",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-32-late-restricted",
+      "site": "S2",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-32-late-regular",
+      "site": "S3",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-32-late-soft",
+      "site": "S3",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-32-late-restricted",
+      "site": "S3",
+      "day": "2026-09-04",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-33-early-regular",
+      "site": "S1",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-33-early-soft",
+      "site": "S1",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-33-early-restricted",
+      "site": "S1",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-33-early-regular",
+      "site": "S2",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-33-early-soft",
+      "site": "S2",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-33-early-restricted",
+      "site": "S2",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-33-early-regular",
+      "site": "S3",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-33-early-soft",
+      "site": "S3",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-33-early-restricted",
+      "site": "S3",
+      "day": "2026-09-05",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-33-late-regular",
+      "site": "S1",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-33-late-soft",
+      "site": "S1",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-33-late-restricted",
+      "site": "S1",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-33-late-regular",
+      "site": "S2",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-33-late-soft",
+      "site": "S2",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-33-late-restricted",
+      "site": "S2",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-33-late-regular",
+      "site": "S3",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-33-late-soft",
+      "site": "S3",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-33-late-restricted",
+      "site": "S3",
+      "day": "2026-09-05",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-34-early-regular",
+      "site": "S1",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-34-early-soft",
+      "site": "S1",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S1-34-early-restricted",
+      "site": "S1",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-34-early-regular",
+      "site": "S2",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-34-early-soft",
+      "site": "S2",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S2-34-early-restricted",
+      "site": "S2",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-34-early-regular",
+      "site": "S3",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-34-early-soft",
+      "site": "S3",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S3-34-early-restricted",
+      "site": "S3",
+      "day": "2026-09-06",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-34-late-regular",
+      "site": "S1",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-34-late-soft",
+      "site": "S1",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S1-34-late-restricted",
+      "site": "S1",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-34-late-regular",
+      "site": "S2",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-34-late-soft",
+      "site": "S2",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S2-34-late-restricted",
+      "site": "S2",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-34-late-regular",
+      "site": "S3",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-34-late-soft",
+      "site": "S3",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "partial"
+    },
+    {
+      "id": "S3-34-late-restricted",
+      "site": "S3",
+      "day": "2026-09-06",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-35-early-regular",
+      "site": "S1",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-35-early-soft",
+      "site": "S1",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-35-early-restricted",
+      "site": "S1",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-35-early-regular",
+      "site": "S2",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-35-early-soft",
+      "site": "S2",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-35-early-restricted",
+      "site": "S2",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-35-early-regular",
+      "site": "S3",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-35-early-soft",
+      "site": "S3",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-35-early-restricted",
+      "site": "S3",
+      "day": "2026-09-07",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-35-late-regular",
+      "site": "S1",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-35-late-soft",
+      "site": "S1",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-35-late-restricted",
+      "site": "S1",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-35-late-regular",
+      "site": "S2",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-35-late-soft",
+      "site": "S2",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-35-late-restricted",
+      "site": "S2",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-35-late-regular",
+      "site": "S3",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-35-late-soft",
+      "site": "S3",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-35-late-restricted",
+      "site": "S3",
+      "day": "2026-09-07",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-36-early-regular",
+      "site": "S1",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-36-early-soft",
+      "site": "S1",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-36-early-restricted",
+      "site": "S1",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-36-early-regular",
+      "site": "S2",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-36-early-soft",
+      "site": "S2",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-36-early-restricted",
+      "site": "S2",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-36-early-regular",
+      "site": "S3",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-36-early-soft",
+      "site": "S3",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-36-early-restricted",
+      "site": "S3",
+      "day": "2026-09-08",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-36-late-regular",
+      "site": "S1",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-36-late-soft",
+      "site": "S1",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-36-late-restricted",
+      "site": "S1",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-36-late-regular",
+      "site": "S2",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-36-late-soft",
+      "site": "S2",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-36-late-restricted",
+      "site": "S2",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-36-late-regular",
+      "site": "S3",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-36-late-soft",
+      "site": "S3",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-36-late-restricted",
+      "site": "S3",
+      "day": "2026-09-08",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-37-early-regular",
+      "site": "S1",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-37-early-soft",
+      "site": "S1",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-37-early-restricted",
+      "site": "S1",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-37-early-regular",
+      "site": "S2",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-37-early-soft",
+      "site": "S2",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "4",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-37-early-restricted",
+      "site": "S2",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-37-early-regular",
+      "site": "S3",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-37-early-soft",
+      "site": "S3",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-37-early-restricted",
+      "site": "S3",
+      "day": "2026-09-09",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-37-late-regular",
+      "site": "S1",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-37-late-soft",
+      "site": "S1",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-37-late-restricted",
+      "site": "S1",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-37-late-regular",
+      "site": "S2",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-37-late-soft",
+      "site": "S2",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-37-late-restricted",
+      "site": "S2",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-37-late-regular",
+      "site": "S3",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-37-late-soft",
+      "site": "S3",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-37-late-restricted",
+      "site": "S3",
+      "day": "2026-09-09",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-38-early-regular",
+      "site": "S1",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-38-early-soft",
+      "site": "S1",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-38-early-restricted",
+      "site": "S1",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-38-early-regular",
+      "site": "S2",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-38-early-soft",
+      "site": "S2",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-38-early-restricted",
+      "site": "S2",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-38-early-regular",
+      "site": "S3",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-38-early-soft",
+      "site": "S3",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-38-early-restricted",
+      "site": "S3",
+      "day": "2026-09-10",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-38-late-regular",
+      "site": "S1",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-38-late-soft",
+      "site": "S1",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-38-late-restricted",
+      "site": "S1",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-38-late-regular",
+      "site": "S2",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-38-late-soft",
+      "site": "S2",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-38-late-restricted",
+      "site": "S2",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-38-late-regular",
+      "site": "S3",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-38-late-soft",
+      "site": "S3",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-38-late-restricted",
+      "site": "S3",
+      "day": "2026-09-10",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-39-early-regular",
+      "site": "S1",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-39-early-soft",
+      "site": "S1",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-39-early-restricted",
+      "site": "S1",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-39-early-regular",
+      "site": "S2",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-39-early-soft",
+      "site": "S2",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-39-early-restricted",
+      "site": "S2",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-39-early-regular",
+      "site": "S3",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-39-early-soft",
+      "site": "S3",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-39-early-restricted",
+      "site": "S3",
+      "day": "2026-09-11",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-39-late-regular",
+      "site": "S1",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-39-late-soft",
+      "site": "S1",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-39-late-restricted",
+      "site": "S1",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-39-late-regular",
+      "site": "S2",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-39-late-soft",
+      "site": "S2",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-39-late-restricted",
+      "site": "S2",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-39-late-regular",
+      "site": "S3",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-39-late-soft",
+      "site": "S3",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-39-late-restricted",
+      "site": "S3",
+      "day": "2026-09-11",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-40-early-regular",
+      "site": "S1",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-40-early-soft",
+      "site": "S1",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-40-early-restricted",
+      "site": "S1",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-40-early-regular",
+      "site": "S2",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-40-early-soft",
+      "site": "S2",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-40-early-restricted",
+      "site": "S2",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-40-early-regular",
+      "site": "S3",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-40-early-soft",
+      "site": "S3",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-40-early-restricted",
+      "site": "S3",
+      "day": "2026-09-12",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-40-late-regular",
+      "site": "S1",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-40-late-soft",
+      "site": "S1",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-40-late-restricted",
+      "site": "S1",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-40-late-regular",
+      "site": "S2",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-40-late-soft",
+      "site": "S2",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-40-late-restricted",
+      "site": "S2",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-40-late-regular",
+      "site": "S3",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-40-late-soft",
+      "site": "S3",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-40-late-restricted",
+      "site": "S3",
+      "day": "2026-09-12",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "2",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-41-early-regular",
+      "site": "S1",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-41-early-soft",
+      "site": "S1",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-41-early-restricted",
+      "site": "S1",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-41-early-regular",
+      "site": "S2",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "regular",
+      "opening": "11",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-41-early-soft",
+      "site": "S2",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "soft",
+      "opening": "7",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-41-early-restricted",
+      "site": "S2",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "6",
+      "closing": "1",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-41-early-regular",
+      "site": "S3",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "regular",
+      "opening": "8",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-41-early-soft",
+      "site": "S3",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "soft",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-41-early-restricted",
+      "site": "S3",
+      "day": "2026-09-13",
+      "window": "early",
+      "kind": "restricted",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-41-late-regular",
+      "site": "S1",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "regular",
+      "opening": "9",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-41-late-soft",
+      "site": "S1",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "soft",
+      "opening": "5",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S1-41-late-restricted",
+      "site": "S1",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "4",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-41-late-regular",
+      "site": "S2",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "regular",
+      "opening": "10",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-41-late-soft",
+      "site": "S2",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "soft",
+      "opening": "6",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S2-41-late-restricted",
+      "site": "S2",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "5",
+      "closing": "3",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-41-late-regular",
+      "site": "S3",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "regular",
+      "opening": "7",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-41-late-soft",
+      "site": "S3",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "soft",
+      "opening": "3",
+      "closing": "0",
+      "evidence": "covered"
+    },
+    {
+      "id": "S3-41-late-restricted",
+      "site": "S3",
+      "day": "2026-09-13",
+      "window": "late",
+      "kind": "restricted",
+      "opening": "2",
+      "closing": "0",
+      "evidence": "covered"
+    }
+  ]
+}

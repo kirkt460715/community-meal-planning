@@ -1,0 +1,50 @@
+{
+  "fields": [
+    "id",
+    "change",
+    "scope",
+    "reference",
+    "kind",
+    "portions",
+    "at"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "C1",
+      "change": "capacity_drop",
+      "scope": "line",
+      "reference": "K1",
+      "kind": "soft",
+      "portions": "0",
+      "at": "2026-09-13T19:30:00"
+    },
+    {
+      "id": "C2",
+      "change": "minimum",
+      "scope": "terminal",
+      "reference": "S1-early",
+      "kind": "restricted",
+      "portions": "7",
+      "at": "2026-09-13T18:00:00"
+    },
+    {
+      "id": "C3",
+      "change": "minimum",
+      "scope": "terminal",
+      "reference": "S3-early",
+      "kind": "restricted",
+      "portions": "8",
+      "at": "2026-09-13T18:00:00"
+    },
+    {
+      "id": "C4",
+      "change": "late_demand",
+      "scope": "terminal",
+      "reference": "S3-early",
+      "kind": "restricted",
+      "portions": "4",
+      "at": "2026-09-13T20:00:00"
+    }
+  ]
+}
